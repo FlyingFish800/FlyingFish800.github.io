@@ -1,0 +1,4 @@
+baseURL = 'https://alexandersymons.github.io/'
+theme = 'hugo-classic'
+languageCode = 'en-us'
+title = "Alexander Symons' Portfolio"
